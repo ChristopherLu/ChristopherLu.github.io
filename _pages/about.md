@@ -19,8 +19,7 @@ Research
 Broadly, my research interests revolve around the systems and modeling challenges when computers collect and reason about **multi-modal data** to interact with the physical environment. Within this broad notion, my research primarily focuses on the **cyber-physical systems** and **autonomous systems**, increasing their reliability, intelligence and security in the wild. 
 I argue for a **holistic** approach by leveraging tactics from wireless systems, machine learning, mobile robotics, usable security&privacy and design novel methods at the boundaries of these areas. 
 
-More recently, my research aims to develop **Mobile Robotics** and **IoT Systems** robust to challenging environment, adversarial attacks and resource constraints.
-
+More recently, my research is focused on **Mobile Robotics** and **IoT Systems** that are robust against challenging environments (e.g., visual degradation), malicious threats (e.g., adversarial attacks) and limited resources (e.g., drone platforms).
 
 Recent News
 ======
