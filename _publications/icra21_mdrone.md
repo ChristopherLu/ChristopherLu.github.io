@@ -1,7 +1,7 @@
 ---
 title: "3D  Motion  Capture  of  an  Unmodified  Drone  withSingle-chip  Millimeter  Wave  Radar"
 collection: publications
-permalink: /publications/icra21_drone
+permalink: /publications/icra21_mdrone
 date: 2021-05-31
 citation: 'Peijun Zhao, <b>Chris Xiaoxuan Lu<sup>&#42;</sup></b>‚ Bing Wang, Niki Trigoni and Andrew Markham. <i>In ICRA 2020.</i>'
 ---
