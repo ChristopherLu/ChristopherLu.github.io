@@ -25,8 +25,8 @@ Changhao Chen, <b>Chris Xiaoxuan Lu</b>‚ Bing Wang, Niki Trigoni and Andrew Ma
 <font size="6" color="green">Conference Papers</font>
 <br/> 
 
-<b>[Heart-Rate Sensing With a Robot Mounted mmWave Radar](https://christopherlu.github.io/publications/icra21_mdrone)</b><br>
-Peijun Zhao, <b>Chris Xiaoxuan Lu<sup>&#42;</sup></b>‚ Bing Wang, Niki Trigoni and Andrew Markham <br>
+<b>[3D  Motion Capture of an Unmodified Drone with Single-chip Millimeter Wave Radar](https://christopherlu.github.io/publications/icra21_mdrone)</b><br>
+Peijun Zhao, <b>Chris Xiaoxuan Lu</b>‚ Bing Wang, Niki Trigoni and Andrew Markham <br>
 <i> International Conference on Robotics and Automation (ICRA), 2021. </i>
 
 <b>[Single-chip mmWave Radar Aided Egomotion Estimation via Deep Sensor Fusion](https://christopherlu.github.io/publications/milliego)</b><br>

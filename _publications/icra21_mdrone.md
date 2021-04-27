@@ -5,7 +5,7 @@ permalink: /publications/icra21_drone
 date: 2021-05-31
 citation: 'Peijun Zhao, <b>Chris Xiaoxuan Lu<sup>&#42;</sup></b>‚ Bing Wang, Niki Trigoni and Andrew Markham. <i>In ICRA 2020.</i>'
 ---
-[[paper]](https://christopherlu.github.io/files/papers/[ICRA2021]mdrones.pdf)
+[[paper]](https://christopherlu.github.io/files/papers/[ICRA2021]mdrone.pdf)
 [[video]](https://youtu.be/L8lLnR8RTW8)
 <!-- [[code]](https://github.com/zhaoymn/mbeats) -->
 
