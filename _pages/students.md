@@ -31,6 +31,9 @@ navigation_weight: 40
             <a href="https://tsagkas.github.io/"  target="_blank"><strong>Nikolas Tsagkas</strong></a>. Fall 2022 - present
         </li>
         <li>
+            <a href="https://christopherlu.github.io/"  target="_blank"><strong>Luchen Li</strong></a>. Fall 2023 - present (Co-supervised with Thomas George Thuruthel)
+        </li> 
+        <li>
             <a href="https://christopherlu.github.io/"  target="_blank"><strong>Zhekai Duan</strong></a>. Fall 2024 - present
         </li>  
   </ul>
@@ -97,11 +100,5 @@ navigation_weight: 40
         <li>
             <strong>Qiyue Xia(F)</strong>. MSc (Research) w. Distinction, 2021-2022. Now: U of Edinburgh
         </li>
-<!--         <li>
-            <strong>Nout Kleef</strong>. BSc. w. Distinction, 2021-2022. Now: U of Oxford
-        </li>
-        <li>
-            <strong>Mingxuan Liu</strong>. MSc w. Distinction, 2019-2020. Now: SAIC MOTOR
-        </li> -->
   </ul>
 </section>
