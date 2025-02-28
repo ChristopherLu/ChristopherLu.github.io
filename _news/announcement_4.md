@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2024-12-02
+date: 2025-02-28
 inline: true
 ---
 
-🔍 We have an EPSRC-DTP PhD studentship on multi-modal visual-language-action model for robotic manipulation. Find more details on the [vacancies page](https://christopherlu.github.io/vacancies/).
+🔍 We have an PhD studentship (Home Student Rate) in the EPSRC CDT in Cyber-physical risk. The topic is 'Cyber-physical security in Vision-Language-Action Models for autonomous systems'. Find more details in the [CDT page](https://www.ucl.ac.uk/security-crime-science/project-proposals).
+
 
