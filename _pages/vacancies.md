@@ -19,7 +19,8 @@ I have one PostDoc opening in scaling visual language models to resource-constra
 
 I constantly recruit 1-2 PhD students every year. Please contact me if you are interested. 
 
-02/12/2024 Update: We have an EPSRC-DTP PhD studentship on multi-modal visual-language-action model for robotic manipulation. Find more details about the project [here](https://ucl-epsrc-dtp.github.io/2025-26-project-catalogue/projects/2531ad1518.html) and the application instruction [here](https://www.ucl.ac.uk/epsrc-doctoral-training/prospective-students/apply-ucl-epsrc-dtp-studentship). Application Deadline: 13:00 UK time on 28 Jan 2025. 
+28/02/2025 Update: We have an EPSRC-CDT PhD studentship on Cyber-physical security in Vision-Language-Action Models for autonomous systems. Find more about the project details [here](https://www.ucl.ac.uk/security-crime-science/project-proposals) and the application instruction [here](https://www.ucl.ac.uk/security-crime-science/how-apply-and-secure-funding).
+Application Deadline: 13:00 UK time on 15th April 2025. 
 
 ---
 ## **VISITOR POSITION**
