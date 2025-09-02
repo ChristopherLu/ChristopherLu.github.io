@@ -7,7 +7,7 @@ nav: true
 navigation_weight: 40
 ---
 
-**I lead the [Mobile Autonomy, Perception and Sensing (MAPS)](https://maps-lab.github.io/) Lab. I am fortunate to work or have worked with the following members:** 
+**I am fortunate to work or have worked with the following members:** 
 
 <!-- <section>
   <h4> PostDoc </h4>
@@ -22,9 +22,6 @@ navigation_weight: 40
   <h4>PhD Students</h4>
   <ul>
         <li>
-            <a href="https://toytiny.github.io/"  target="_blank"><strong>Fangqiang Ding</strong></a>. Fall 2021 - present
-        </li>
-        <li>
             <a href="https://christopherlu.github.io/"  target="_blank"><strong>Jiajun Li</strong></a>. Spring 2022 - present (Co-supervised with Frederic Bosche)
         </li>
         <li>
@@ -36,14 +33,14 @@ navigation_weight: 40
         <li>
             <a href="https://christopherlu.github.io/"  target="_blank"><strong>Zhekai Duan</strong></a>. Fall 2024 - present
         </li>  
-  </ul>
-</section>
-
-<section>
-  <h4> Master by Research Students</h4>
-  <ul>
         <li>
-            <strong>Xiangyu Wen</strong>. Fall 2023 - present
+            <strong>Xiangyu Wen</strong>. Fall 2025 - present
+        </li>
+        <li>
+            <strong>Joe Clinton</strong>. Fall 2025 - present
+        </li>
+        <li>
+            <strong>Shikai Geng</strong>. Fall 2025 - present
         </li>
   </ul>
 </section>
@@ -82,6 +79,9 @@ navigation_weight: 40
 <section>
   <h4>Alumni</h4>
   <ul>
+        <li>
+            <strong>Fangqiang Ding</strong>. Fall 2021-2025. Now: MIT
+        </li>
         <li>
             <strong>Kaiwen Cai</strong>. PhD, 2020-2024. Now: Li Auto Inc.
         </li>
