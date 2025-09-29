@@ -6,10 +6,7 @@ description:
 nav: true
 navigation_weight: 40
 ---
-
 > **For more updated information, please visit our [group website](https://christopherlu.github.io/group_website/team/).**
-
-**I am fortunate to work or have worked with the following members:** 
 
 <section>
   <h4>PhD Students</h4>
