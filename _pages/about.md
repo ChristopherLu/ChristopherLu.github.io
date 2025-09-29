@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 navigation_weight: 10
 ---
 
-I am an Associate Professor in Robotics and AI at the Department of Computer Science, University College London (UCL). My research centers on **Scaling Foundation Models for Embodied AI**, leveraging recent advancements in AI and machine learning to adapt foundation models for real-world applications. These models offer unparalleled context-awareness in a zero-shot manner, enabling intelligent behavior without task-specific training. My work addresses the significant challenges of deploying these foundation models in diverse and unpredictable environments, focusing on three key areas:
+I am an Associate Professor in Robotics and AI at the Department of Computer Science, University College London (UCL). I am directing the [RoMA lab](https://christopherlu.github.io/group_website/) (Robotics and Multimodal AI laboratory), and our research centers on **Scaling Foundation Models for Embodied AI**, leveraging recent advancements in AI and machine learning to adapt foundation models for real-world applications. These models offer unparalleled context-awareness in a zero-shot manner, enabling intelligent behavior without task-specific training. My work addresses the significant challenges of deploying these foundation models in diverse and unpredictable environments, focusing on three key areas:
 
 1. **Generalization Across Modalities** – Ensuring robust performance of AI models across various sensors used by different agents.
 
