@@ -7,16 +7,9 @@ nav: true
 navigation_weight: 40
 ---
 
-**I am fortunate to work or have worked with the following members:** 
+> **For more updated information, please visit our [group website](https://christopherlu.github.io/group_website/team/).**
 
-<!-- <section>
-  <h4> PostDoc </h4>
-  <ul>
-        <li>
-            <a href="https://www.csc.liv.ac.uk/~ramdrop/"  target="_blank"><strong>Kaiwen Cai</strong></a>. Fall 2023 - present
-        </li>
-  </ul>
-</section> -->
+**I am fortunate to work or have worked with the following members:** 
 
 <section>
   <h4>PhD Students</h4>
@@ -41,64 +34,6 @@ navigation_weight: 40
         </li>
         <li>
             <strong>Shikai Geng</strong>. Fall 2025 - present
-        </li>
-  </ul>
-</section>
-
-<!-- <section>
-  <h4> Undergraduate Students </h4>
-  <ul>
-        <li>
-            <strong>Zhekai Duan</strong>. Summer 2023 - present
-        </li>
-        <li>
-            <strong>Lawrence Zhu</strong>. Summer 2023 - present
-        </li>
-        <li>
-            <strong>Haobo Yang</strong>. Summer 2023 - present
-        </li>
-        <li>
-            <strong>Ao Shen</strong>. Summer 2023 - present
-        </li>
-        <li>
-            <strong>Xinyuan Cui</strong>. Summer 2023 - present
-        </li>
-  </ul>
-</section> -->
-
-<!-- <section>
-  <h4> Research Visitor </h4>
-  <ul>
-        <li>
-            <a href="https://www.firelabxy.com/tianhang-zhang"  target="_blank"><strong>Tianhang Zhang (PhD)</strong></a>. May 2023 - present
-        </li>
-  </ul>
-</section> -->
-
-
-<section>
-  <h4>Alumni</h4>
-  <ul>
-        <li>
-            <strong>Fangqiang Ding</strong>. Fall 2021-2025. Now: MIT
-        </li>
-        <li>
-            <strong>Kaiwen Cai</strong>. PhD, 2020-2024. Now: Li Auto Inc.
-        </li>
-        <li>
-            <strong>Lawrence Zhu</strong>. BSc. w. Distinction, 2023-2024. Now: Georgia Institute of Technology.
-        </li>
-        <li>
-            <strong>Ivan Zhong</strong>. BSc. w. Distinction, 2022-2023. Now: U of Cambridge.
-        </li>
-        <li>
-            <strong>Zhijun Pan</strong>. BSc. w. Distinction, 2022-2023. Now: Royal College of Art.
-        </li>
-        <li>
-            <strong>Zhen Luo</strong>. MSc (Research), 2022-2023. Now: SUSTech.
-        </li>
-        <li>
-            <strong>Qiyue Xia(F)</strong>. MSc (Research) w. Distinction, 2021-2022. Now: U of Edinburgh
         </li>
   </ul>
 </section>
