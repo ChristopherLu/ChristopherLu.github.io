@@ -12,13 +12,13 @@ navigation_weight: 40
   <h4>PhD Students</h4>
   <ul>
         <li>
-            <a href="https://christopherlu.github.io/"  target="_blank"><strong>Jiajun Li</strong></a>. Spring 2022 - present (Co-supervised with Frederic Bosche)
-        </li>
-        <li>
             <a href="https://tsagkas.github.io/"  target="_blank"><strong>Nikolas Tsagkas</strong></a>. Fall 2022 - present
         </li>
         <li>
             <a href="https://christopherlu.github.io/"  target="_blank"><strong>Luchen Li</strong></a>. Fall 2023 - present (Co-supervised with Thomas George Thuruthel)
+        </li>
+        <li>
+            <strong>Lingfan Bao</strong>. Fall 2023 - present (Co-supervised with Chengxu Zhou)
         </li> 
         <li>
             <a href="https://christopherlu.github.io/"  target="_blank"><strong>Zhekai Duan</strong></a>. Fall 2024 - present
